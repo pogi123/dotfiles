@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="http://software.bodhilinux.com/software/showDesc/Transmission">
+<title>‪Bodhi Linux</title>
+<info>
+<metadata midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.google.com/search?q=system%20monitor%20bodhi#hl=en&amp;sclient=psy-ab&amp;q=system+resources+monitor+light+weight+linux&amp;oq=system+resources+monitor+light+weight+linux&amp;gs_l=serp.3...9600.11792.1.12472.10.10.0.0.0.8.829.4359.2-1j5j2j1j1.10.0.les%3B..0.0...1c.1.sI6e0bkhvHQ&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_qf.&amp;fp=7e9a9693fa6e1da2&amp;biw=1024&amp;bih=453">
+<title>‪system monitor bodhi - Google Search</title>
+<info>
+<metadata midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://lifehacker.com/5847676/the-best-system-monitor-for-linux">
+<title>‪The Best System Monitor for Linux</title>
+<info>
+<metadata midori:dont-write-history="1" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://software.bodhilinux.com/software/showDesc/VLC">
+<title>‪Bodhi Linux</title>
+<info>
+<metadata midori:dont-write-history="1" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://software.bodhilinux.com/software/showL2/PDF_Reader">
+<title>‪Bodhi Linux</title>
+<info>
+<metadata midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://rubyonrails.org/documentation">
+<title>‪Ruby on Rails: Documentation</title>
+<info>
+<metadata midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://github.com/fesplugas/rbenv-installer">
+<title>‪fesplugas/rbenv-installer · GitHub</title>
+<info>
+<metadata midori:icon="text-html" midori:history-step="2" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://forums.bodhilinux.com/index.php?/topic/5797-loving-bodhi-201-but-uses-more-ram/">
+<title>‪Loving Bodhi 2.0.1, but uses more RAM - Bodhi Linux Forums</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://forums.bodhilinux.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.google.com/search?q=50%20usd%20to%20pkr">
+<title>‪50 usd to pkr - Google Search</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://www.google.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://gdgt.com/acer/aspire/one/zg5/specs/">
+<title>‪Acer Aspire One ZG5 specs - gdgt</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://media.gdgt.com/assets/img/site/favicon.png" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>

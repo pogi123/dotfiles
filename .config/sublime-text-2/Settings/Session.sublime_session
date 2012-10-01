@@ -1,0 +1,994 @@
+{
+	"folder_history":
+	[
+		"/home/frodo/dev/monitore"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"syntax r",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"erb",
+						"Snippet: end (ERB)"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/frodo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/frodo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/frodo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/frodo/dev/monitore/spec/support/utilities.rb",
+				"/home/frodo/dev/monitore/app/views/layouts/_header.html.erb",
+				"/home/frodo/dev/monitore/public/old_index.html",
+				"/home/frodo/dev/monitore/app/views/layouts/_footer.html.erb",
+				"/home/frodo/dev/monitore/app/assets/stylesheets/custom.css.scss",
+				"/home/frodo/dev/monitore/app/helpers/application_helper.rb",
+				"/home/frodo/dev/monitore/app/views/layouts/application.html.erb",
+				"/home/frodo/dev/monitore/app/views/static_pages/home.html.erb",
+				"/home/frodo/dev/monitore/app/views/layouts/_shim.html.erb",
+				"/home/frodo/dev/monitore/Gemfile",
+				"/home/frodo/dev/monitore/config/routes.rb",
+				"/home/frodo/dev/monitore/app/controllers/static_pages_controller.rb",
+				"/home/frodo/dev/monitore/app/views/static_pages/about.html.erb",
+				"/home/frodo/dev/monitore/app/views/static_pages/help.html.erb",
+				"/home/frodo/dev/rails setup ",
+				"/home/frodo/dev/monitore/Guardfile",
+				"/home/frodo/dev/monitore/test/test_helper.rb",
+				"/home/frodo/dev/monitore/spec/spec_helper.rb",
+				"/home/frodo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/frodo/dev/monitore/app/assets/stylesheets/static_pages.css.scss",
+				"/home/frodo/.bashrc",
+				"/home/frodo/dev/monitore/.gitignore",
+				"/home/frodo/dev/monitore/.rspec",
+				"/home/frodo/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
+				"/home/frodo/.config/sublime-text-2/Packages/Theme - Default/Widget.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"visit root_path",
+					"'/static_pages/contact'",
+					"'/static_pages/about'",
+					"'/static_pages/help'",
+					"'/static_pages/home'",
+					"unit",
+					"test",
+					"PS1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"contact_path",
+					"about_path",
+					"help_path",
+					"root_path",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"apperb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"head",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"home",
+						"app/views/static_pages/home.html.erb"
+					],
+					[
+						"foo",
+						"app/views/layouts/_footer.html.erb"
+					],
+					[
+						"html",
+						"public/index.html"
+					],
+					[
+						"hea",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"statco",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"scss",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"apper",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"help",
+						"app/views/static_pages/help.html.erb"
+					],
+					[
+						"guar",
+						"Guardfile"
+					],
+					[
+						"test/test",
+						"test/test_helper.rb"
+					],
+					[
+						"spec",
+						"spec/spec_helper.rb"
+					],
+					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"sps",
+						"spec/requests/static_pages_spec.rb"
+					],
+					[
+						"sta",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						"stati",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						".rsp",
+						".rspec"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 101.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/frodo/dev/monitore/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1959,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/controllers/static_pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 131,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/views/static_pages/contact.html.erb",
+					"settings":
+					{
+						"buffer_size": 137,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/views/layouts/_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 303,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/views/static_pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 317,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 421,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 421,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/spec/support/utilities.rb",
+					"settings":
+					{
+						"buffer_size": 148,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 291,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/frodo/dev/monitore/spec/requests/static_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 780,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"syntax r",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"erb",
+						"Snippet: end (ERB)"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/frodo/dev/monitore/spec/spec_helper.rb",
+				"/home/frodo/dev/monitore/app/helpers/application_helper.rb",
+				"/home/frodo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/frodo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/frodo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/frodo/dev/monitore/spec/support/utilities.rb",
+				"/home/frodo/dev/monitore/app/views/layouts/_header.html.erb",
+				"/home/frodo/dev/monitore/public/old_index.html",
+				"/home/frodo/dev/monitore/app/views/layouts/_footer.html.erb",
+				"/home/frodo/dev/monitore/app/assets/stylesheets/custom.css.scss",
+				"/home/frodo/dev/monitore/app/views/layouts/application.html.erb",
+				"/home/frodo/dev/monitore/app/views/static_pages/home.html.erb",
+				"/home/frodo/dev/monitore/app/views/layouts/_shim.html.erb",
+				"/home/frodo/dev/monitore/Gemfile",
+				"/home/frodo/dev/monitore/config/routes.rb",
+				"/home/frodo/dev/monitore/app/controllers/static_pages_controller.rb",
+				"/home/frodo/dev/monitore/app/views/static_pages/about.html.erb",
+				"/home/frodo/dev/monitore/app/views/static_pages/help.html.erb",
+				"/home/frodo/dev/rails setup ",
+				"/home/frodo/dev/monitore/Guardfile",
+				"/home/frodo/dev/monitore/test/test_helper.rb",
+				"/home/frodo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/frodo/dev/monitore/app/assets/stylesheets/static_pages.css.scss",
+				"/home/frodo/.bashrc",
+				"/home/frodo/dev/monitore/.gitignore",
+				"/home/frodo/dev/monitore/.rspec",
+				"/home/frodo/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
+				"/home/frodo/.config/sublime-text-2/Packages/Theme - Default/Widget.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"should should",
+					"path",
+					"visit root_path",
+					"'/static_pages/contact'",
+					"'/static_pages/about'",
+					"'/static_pages/help'",
+					"'/static_pages/home'",
+					"unit",
+					"test",
+					"PS1"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"should",
+					"",
+					"contact_path",
+					"about_path",
+					"help_path",
+					"root_path",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/frodo/dev/monitore"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/frodo/dev/monitore/config/routes.rb",
+							"settings":
+							{
+								"buffer_size": 1959,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										138,
+										138
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 59.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/frodo/dev/monitore/app/controllers/static_pages_controller.rb",
+							"settings":
+							{
+								"buffer_size": 131,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										131,
+										131
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/frodo/dev/monitore/app/views/static_pages/contact.html.erb",
+							"settings":
+							{
+								"buffer_size": 137,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										128,
+										128
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/frodo/dev/monitore/app/views/layouts/_footer.html.erb",
+							"settings":
+							{
+								"buffer_size": 303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										303,
+										303
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/frodo/dev/monitore/app/views/static_pages/home.html.erb",
+							"settings":
+							{
+								"buffer_size": 317,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/frodo/dev/monitore/app/views/layouts/_header.html.erb",
+							"settings":
+							{
+								"buffer_size": 421,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/frodo/dev/monitore/app/views/layouts/application.html.erb",
+							"settings":
+							{
+								"buffer_size": 421,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										368,
+										368
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/frodo/dev/monitore/spec/support/utilities.rb",
+							"settings":
+							{
+								"buffer_size": 148,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/frodo/dev/monitore/app/helpers/application_helper.rb",
+							"settings":
+							{
+								"buffer_size": 291,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 9,
+							"file": "/home/frodo/dev/monitore/spec/requests/static_pages_spec.rb",
+							"settings":
+							{
+								"buffer_size": 780,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										319,
+										319
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/User/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1024,600",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"help",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"util",
+						"spec/support/utilities.rb"
+					],
+					[
+						"helper",
+						"spec/spec_helper.rb"
+					],
+					[
+						"spec",
+						"spec/spec_helper.rb"
+					],
+					[
+						"apperb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"head",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"home",
+						"app/views/static_pages/home.html.erb"
+					],
+					[
+						"foo",
+						"app/views/layouts/_footer.html.erb"
+					],
+					[
+						"html",
+						"public/index.html"
+					],
+					[
+						"hea",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"statco",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"scss",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"apper",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"guar",
+						"Guardfile"
+					],
+					[
+						"test/test",
+						"test/test_helper.rb"
+					],
+					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"sps",
+						"spec/requests/static_pages_spec.rb"
+					],
+					[
+						"sta",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						"stati",
+						"app/controllers/static_pages_controller.rb"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						".rsp",
+						".rspec"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 101.0,
+			"status_bar_visible": true,
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,42 @@
+{
+   "checksum": "34e5e5f08c4fa07103d162ec918a142c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12993479039967145",
+            "id": "4",
+            "name": "thoughtbot/trail-map \u00B7 GitHub",
+            "type": "url",
+            "url": "https://github.com/thoughtbot/trail-map"
+         }, {
+            "date_added": "12993505167223532",
+            "id": "5",
+            "name": "railstutorial/sample_app_2nd_ed",
+            "type": "url",
+            "url": "https://github.com/railstutorial/sample_app_2nd_ed"
+         } ],
+         "date_added": "12993340205590146",
+         "date_modified": "12993505167223532",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "12993340205590225",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "12993340205590240",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

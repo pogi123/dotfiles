@@ -1,0 +1,16 @@
+
+[settings]
+default-encoding=ISO-8859-1
+enable-site-specific-quirks=true
+last-window-width=818
+last-window-height=392
+last-window-state=MIDORI_WINDOW_MAXIMIZED
+last-web-search=2
+toolbar-style=MIDORI_TOOLBAR_ICONS
+homepage=/usr/share/bodhi/quickstart/quickstartEN/index.html
+text-editor=leafpad %f
+location-entry-search=http://www.google.com/search?q=%s
+open-tabs-in-the-background=true
+enable-html5-database=true
+identify-as=MIDORI_IDENT_FIREFOX
+user-agent=Mozilla/5.0 (X11; Linux; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Midori/0.4
